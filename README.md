@@ -1,6 +1,6 @@
 # PClub Platform 🚀
 
-An Arabic-language programming education platform designed to provide better learning opportunities for computer science students in our university.
+An Arabic-language programming education platform designed to provide better learning opportunities for computer science students at our university (unofficial).
 
 ## About
 
