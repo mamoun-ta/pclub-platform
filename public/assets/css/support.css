@@ -1,0 +1,10 @@
+/* ...................................
+Support Page
+......................................*/
+.support-send::before {
+    background: rgba(255, 0, 0, 0);
+}
+
+.support-send {
+    border: none;
+}
